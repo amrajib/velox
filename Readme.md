@@ -17,7 +17,9 @@ running `cargo bootimage` from within the project crate. See requirements for in
 
 After executing `cargo bootimage`, there should be a bootable image at `/target/x86_64-velox/*/bootimage-velox.bin`.
 
-To run: `qemu-system-x86_64 -drive format=raw,file=target/x86_64-velox/debug/bootimage-velox.bin`
+To run (assisted, ensure qemu installed): `cargo run`.
+
+To run (un-assisted): `qemu-system-x86_64 -drive format=raw,file=target/x86_64-velox/debug/bootimage-velox.bin`.
 
 # Requirements
 
