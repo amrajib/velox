@@ -1,0 +1,8 @@
+[package]
+name = "velox"
+authors = ["Flux <fluxsec@proton.me>"]
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bootloader = "0.9"
