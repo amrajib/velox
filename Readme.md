@@ -1,6 +1,6 @@
 # Velox OS
 
-Velox is a **work in process** minimal Operating System build in Rust as a hobby project for 
+Velox is a **work in process** minimal Operating System built in **Rust** as a hobby project for 
 low level systems engineering (in Rust).
 
 With thanks to the guide at [phil-opp.com](https://os.phil-opp.com/minimal-rust-kernel/). I hope to turn
