@@ -17,9 +17,13 @@ running `cargo bootimage` from within the project crate. See requirements for in
 
 After executing `cargo bootimage`, there should be a bootable image at `/target/x86_64-velox/*/bootimage-velox.bin`.
 
+To run: `qemu-system-x86_64 -drive format=raw,file=target/x86_64-velox/debug/bootimage-velox.bin`
+
 # Requirements
 
 - `rustup override set nightly`
 - `rustup component add rust-src`
 - `rustup component add llvm-tools-preview`
+- Install [QEMU](https://www.qemu.org/download/):
+  - MacOS: `brew install qemu`
 - (from outside the cargo project) `cargo install bootimage`
